@@ -2,10 +2,10 @@ variable "region" {
     default = "us-east-1" 
 }
 variable "access_key" {
-    default = "AKIAI7CUTIT2PKUXXPFQ"
+    default = "   "
 }
 variable "secret_key" {
-    default = "IFsb9onjxA1tcA5fmme7kjNihMnNNOxMGSyePeea"
+    default = "   "
 }    
 variable "vpc_cidr_block" {
     default = "10.0.0.0/16"
